@@ -1,4 +1,4 @@
 baseURL = 'https://reimu.gq/blog'
 languageCode = 'en-us'
-title = 'Reimu's Blog'
+title = 'Reimu Blog'
 theme = "stack"
